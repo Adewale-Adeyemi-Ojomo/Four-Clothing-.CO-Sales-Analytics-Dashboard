@@ -67,10 +67,9 @@ git push
 
 **Adewale Ojomo** — data & analytics
 
+
 Project licensed under the MIT License — see `LICENSE`.
 
 ---
-
-If you'd like, I can commit these changes and push to your remote; shall I proceed?
 
 
